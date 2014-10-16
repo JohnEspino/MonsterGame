@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Beautiful
+#
+
+projectname: Beautiful
+vendorid: com.myBeautiful
+mainmodule: com.myBeautiful.beautiful
